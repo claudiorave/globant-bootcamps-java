@@ -1,7 +1,7 @@
 ﻿# Globant Java Bootcamp 2018
 ## Spring - REST - Git - Maven - Testing - RDB
 
-Group-1: Raverta, Claudio Marco (claudiorave). Perez, Jefferson.
+
 
 ![Globant](assets/globant.jpg)
 
@@ -1121,6 +1121,8 @@ Commit your practice code.
 → [index](#index)
 
 ------
+
+
 Group 3:
 
 Giorgio Tosti (giorger87)
@@ -1128,3 +1130,8 @@ Giorgio Tosti (giorger87)
 Agustin Cipollone (aguscipo)
 
 Nicolás Fernandez (Nico996)
+
+Group 1: 
+
+Claudio Raverta (claudiorave)
+
