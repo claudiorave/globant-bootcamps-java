@@ -1,0 +1,33 @@
+//1. Create a text file programatically and try to save it in your local computer.
+
+
+package hello;
+
+import java.io.*;
+public class TextCreator{
+public static void main(String args[])
+    {
+    File f;
+    f=new File("text.txt");
+    Boolean check=f.exists();
+     
+        try
+        {
+        if(!check)
+        {
+        f.createNewFile();
+        System.out.println("File Created"); 
+        }
+        else
+        {
+        throw new IOException("Specified File already exists!");
+        }
+        }
+ 
+        catch(IOException e)
+        {
+        System.out.println(e.getMessage());
+        } 
+    }
+     
+}
